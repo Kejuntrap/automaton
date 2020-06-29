@@ -1,6 +1,7 @@
 # automaton.java
 
 NFA,DFAの図作成と経路表示をするためのgraphizのdotソースを出力します
+
 状態遷移図
 
 ![](hoge2.png)
